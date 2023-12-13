@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL-PUBLIC/assets/23700365/5b5e4d3a-8370-451a-b003-09d98a92bc31)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL-PUBLIC/assets/23700365/352ef3c6-07a0-4a92-bfd1-95ffa7ea12a1)
+
 # Basic Info
 
 Note|Description
